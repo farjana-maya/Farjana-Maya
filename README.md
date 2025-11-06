@@ -12,11 +12,7 @@ Welcome to my GitHub profile! I'm passionate about creating beautiful and functi
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farjana-maya&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
 
 ---
 
