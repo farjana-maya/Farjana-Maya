@@ -1,146 +1,128 @@
 <div align="center">
-  
-# 👋 Hi, I'm Farjana Akter
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+Laravel+%7C+Vue.js;Building+Digital+Experiences;Let's+Create+Something+Amazing!" alt="Typing SVG" />
+# Hi 👋, I'm Farjana Akter !
 
-</div>
-
-<div align="center">
-  
-### 🌟 Turning Ideas Into Reality Through Code
+<img src="https://komarev.com/ghpvc/?username=farjana-maya&label=Profile%20views&color=0e75b6&style=flat" alt="farjana-maya" />
 
 </div>
 
-<br/>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## 🚀 About Me
+### 🌱 I'm currently learning **Laravel**
 
-```typescript
-const farjana = {
-    location: "Dhaka, Bangladesh 🇧🇩",
-    role: "Full Stack Web Developer",
-    currentFocus: "Building Scalable Web Applications",
-    learning: ["Advanced Laravel", "React Patterns", "Vue 3"],
-    funFact: "I debug with coffee ☕"
-};
-```
+### 📫 How to reach me **farjanamaya61@gmail.com**
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🔗 Connect with me:
 
-<div align="center">
-
-### 💻 Languages & Frameworks
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-🌱 **Currently learning:** Laravel
-
-### ⚙️ Tools & Others
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+<p align="left">
+<a href="https://bd.linkedin.com/in/farjana-maya-4521311b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farjana-maya" height="30" width="40" /></a>
+<a href="mailto:farjanamaya61@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="30" width="40" /></a>
+</p>
 
 <br/>
 
-## 📊 GitHub Analytics
+## 👩‍💻 About Me
 
-<div align="center">
-  
-<a href="https://github.com/farjana-maya">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farjana-maya&theme=tokyonight" />
+- 🚀 I'm currently working on **cool web apps using React and Laravel**
+
+- 👯 I'm looking to collaborate on **open-source projects, innovative web apps**
+
+- 💬 Ask me about **Web Development, JavaScript, PHP, or UI/UX Design**
+
+- 📫 How to reach me: **farjanamaya61@gmail.com**
+
+- ⚡ Fun fact: **I debug with coffee ☕**
+
+<br/>
+
+## 🛠️ Languages and Tools:
+
+<p align="left">
+<!-- Frontend -->
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+</a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
 </a>
 
-</div>
+<!-- Backend -->
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+</a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+</a>
+<a href="https://wordpress.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> 
+</a>
+
+<!-- Database & Tools -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+</a>
+</p>
+
+<br/>
+
+## 📊 GitHub Stats:
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farjana-maya&theme=tokyonight" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farjana-maya&theme=tokyonight&utcOffset=6" />
-</div>
 
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farjana-maya&theme=tokyonight" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farjana-maya&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=farjana-maya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=farjana-maya&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farjana-maya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
 </div>
 
 <br/>
 
 
-
-## 🎯 Current Mission
-
-<div align="center">
-
-```diff
-+ Building responsive and scalable web applications
-+ Mastering React, Laravel & Vue.js ecosystems
-+ Contributing to open source projects
-+ Learning new technologies every day
-```
-
-</div>
-
-<br/>
-
-## 💼 Featured Projects
-
-<div align="center">
-
-### 🚧 Under Construction 🚧
-**Exciting projects coming soon!**
-
-Stay tuned for innovative web applications built with React, Laravel, and Vue.js
-
-</div>
-
-<br/>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farjana-maya&custom_title=Farjana's%20Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
 
-<br/>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/farjana-maya-4521311b4)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farjanamaya61@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farjana-maya)
-
-<br/>
-
-### 💬 Open for collaboration on exciting projects!
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=farjana-maya&custom_title=Farjana's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  
-### ⚡ "Code is like humor. When you have to explain it, it's bad." ⚡
 
-<img src="https://komarev.com/ghpvc/?username=farjana-maya&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+### 💡 "Code is poetry written in logic" 💡
+
+### ⚡ Open for collaboration on exciting projects! ⚡
+
+### 📫 Let's build something amazing together! 📫
 
 </div>
 
----
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
