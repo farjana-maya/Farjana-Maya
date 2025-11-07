@@ -77,13 +77,7 @@ const farjana = {
 
 <br/>
 
-## 🏆 Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farjana-maya&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
-
-<br/>
 
 ## 🎯 Current Mission
 
